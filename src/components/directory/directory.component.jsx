@@ -10,19 +10,19 @@ class Directory extends React.Component{
             section: [
                 {
                   title: 'hats',
-                  imageUrl: 'https://i.ibb.co/cvpntL1/hats.png',
+                  imageUrl: 'https://image.spreadshirtmedia.com/image-server/v1/mp/products/T1040A54MPA2252PT26X41Y4D1038993741FS1481/views/1,width=378,height=378,appearanceId=54,backgroundColor=F2F2F2,modelId=1795,crop=list/nft-millionaire-loading-investing-nfts-art-trucker-cap.jpg',
                   id: 1,
                   linkUrl: 'shop/hats'
                 },
                 {
                   title: 'jackets',
-                  imageUrl: 'https://i.ibb.co/px2tCc3/jackets.png',
+                  imageUrl: 'https://media.stylus.com/global/processedimages/2021/july/_2021kd/brief/digi/tribute_brand_--__w_760_.jpg',
                   id: 2,
                   linkUrl: 'shop/jackets'
                 },
                 {
                   title: 'sneakers',
-                  imageUrl: 'https://i.ibb.co/0jqHpnp/sneakers.png',
+                  imageUrl: 'https://media.gq.com/photos/6064d9607e3efcdc77d39b00/master/w_3240,h_2160,c_limit/05-nzxt_rtfkt-4k--.jpg',
                   id: 3,
                   linkUrl: 'shop/sneakers'
                 },
