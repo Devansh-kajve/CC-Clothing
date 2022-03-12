@@ -2,6 +2,7 @@ import React from "react";
 import "./Collection-item.styles.scss";
 
 const CollectionItem = ({ id, name, price, imageUrl }) => (
+   //the individual item image and name, price card
   <div className="collection-item">
     <div
       className="image"
