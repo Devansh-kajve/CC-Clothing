@@ -1,3 +1,3 @@
 ## CC-Clothing
 
-A crypto based e-commerce website
+A fully functional e-commerce website
